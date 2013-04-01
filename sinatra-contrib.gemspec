@@ -1,6 +1,6 @@
 # Run `rake sinatra-contrib.gemspec` to update the gemspec.
 Gem::Specification.new do |s|
-  s.name        = "sinatra-contrib"
+  s.name        = "rubycut-sinatra-contrib"
   s.version     = "1.4.0"
   s.description = "Collection of useful Sinatra extensions"
   s.homepage    = "http://github.com/sinatra/sinatra-contrib"
